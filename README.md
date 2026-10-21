@@ -1,4 +1,4 @@
-# Task 1 – Calculator
+Calculator
 
 ## Description
 This project is a **web-based Calculator** built using HTML, CSS, and JavaScript.  
